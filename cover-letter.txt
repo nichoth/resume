@@ -1,1 +1,4 @@
-Hi npm humans! So npm is an incredible tool that has changed the way everyone works (for the better, even). But the reason I'm writing is because
+Hi npm humans! So npm is an incredible tool that has changed the way everyone works. But the reason I'm contacting you is because the people who work there have politics that I can get behind. From what I've seen of the online personalities from npm, you've consistently supported smart, progressive values in an industry where exclusivity is normal. Part of my application is that I want to get to the bay area, where I see political activism at the forefront.
+
+A little about me. I have spent the last 4 years or so making applications with Javascript. My main focus is client side web apps -- writing code that is maintainable over a long time period and by multiple people. At my current job I do exactly that, which is great -- I get to do what I would be doing anyway, researching development in JS. That's my main thing. I do various other things too, various langauges, tools. Being able to spend time around experienced developers would be really great.
+
