@@ -7,15 +7,12 @@
         body {
             color: black;
             font-family: sans-serif;
-            max-width: 35em;
-            margin: 0 auto;
+            max-width: 40em;
+            margin: 4em 7em;
         }
         a {
-            color: cornflowerblue;
+            color: gray;
             text-decoration: none;
-        }
-        h1 {
-            margin-bottom: 0;
         }
         .contact {
             margin-top: 0;
@@ -27,6 +24,12 @@
         li {
             list-style: none;
         }
+        .skill-list {
+            padding-left: 2em;
+        }
+        .skill-list li {
+            list-style: initial;
+        }
         h1, h2, h3 {
             color: black;
             text-transform: uppercase;
@@ -36,6 +39,16 @@
         }
         h2 {
             margin-top: 4em;
+            font-weight: 900;
+            letter-spacing: 0;
+        }
+        h2:first-child {
+            margin-top: 1em;
+        }
+        h1 {
+            text-transform: initial;
+            font-weight: 400;
+            margin-bottom: 0;
         }
         hr {
             border-top: 1px solid lightgray;
@@ -51,89 +64,118 @@
         p {
             line-height: 1.5em;
         }
+
+        .col-left {
+            width: 30%;
+            float: left;
+        }
+        .col-right {
+            float: left;
+            width: 70%;
+        }
+
+        @media (max-width: 690px) {
+            body {
+                margin: 4em auto;
+                padding: 1em;
+            }
+            h2:first-child {
+                margin-top: 4em;
+            }
+            .col-left, .col-right {
+                float: none;
+                width: 100%;
+            }
+        }
     </style>
 </head>
+
 <body>
-    <h1>Nick Thomas </h1>
-    <ul class="contact">
-        <li>Javascript person</li>
-        <li>
-            <a href="mailto:nichoth@gmail.com">nichoth@gmail.com</a>
-        </li>
-        <li><a href="https://github.com/nichoth">github.com/nichoth</a></li>
-        <li>360.485.6268</li>
-    </ul>
-
-    <h2>experience </h2>
-
-    <div class="job-info">
-        <ul class="experience-info">
-            <li class="co-name">Invintus Media</li>
-            <li class="misc">Olympia, WA</li>
-            <li class="misc">JavaScript developer</li>
-            <li class="misc">June 2016 &ndash; present</li>
+    <div class="col-left">
+        <h1>Nick Thomas </h1>
+        <ul class="contact">
+            <li>JavaScript person</li>
+            <li>
+                <a href="mailto:nichoth@gmail.com">nichoth@gmail.com</a>
+            </li>
+            <li><a href="https://github.com/nichoth">github.com/nichoth</a></li>
+            <li>360.485.6268</li>
         </ul>
-
-    <p>I worked with a small (3 person) team developing a very cool web application for live streaming, editing, and publishing videos. My main task was improving our front end product -- adding features, improving performance, and improving our development process. I also programmed fun server side node.js projects related to processing videos.</p>
     </div>
 
-    <hr>
+    <div class="col-right">
+        <h2>experience </h2>
 
-    <div class="job-info">
-        <ul class="experience-info">
-            <li class="co-name">Fresh Consulting</li>
-            <li class="misc">Seattle, WA</li>
-            <li class="misc">Front-end developer</li>
-            <li class="misc">Aug 2015 – Oct 2015</li>
+        <div class="job-info">
+            <ul class="experience-info">
+                <li class="co-name">Invintus Media</li>
+                <li class="misc">Olympia, WA</li>
+                <li class="misc">JavaScript developer</li>
+                <li class="misc">June 2016 &ndash; present</li>
+            </ul>
+
+        <p>I worked with a small (3 person) team developing a very cool web application for live streaming, editing, and publishing videos. My main task was improving our front end product -- adding features, improving performance, and improving our development process. I also programmed fun server side node.js projects related to processing videos.</p>
+        </div>
+
+        <hr>
+
+        <div class="job-info">
+            <ul class="experience-info">
+                <li class="co-name">Fresh Consulting</li>
+                <li class="misc">Seattle, WA</li>
+                <li class="misc">Front-end developer</li>
+                <li class="misc">Aug 2015 – Oct 2015</li>
+            </ul>
+
+            <p>This was a contract job where I created and worked on a wide variety of mostly front-end projects -- unique single page apps, command line tools in node.js, and CMS driven websites.  </p>
+        </div>
+
+        <hr>
+
+        <div class="job-info">
+            <ul class="experience-info">
+                <li class="co-name">Slow Clouds</li>
+                <li class="misc">Olympia, WA</li>
+                <li class="misc">Web developer/graphic designer</li>
+                <li class="misc">March 2014 – Sept 2014</li>
+            </ul>
+
+            <p>I worked with this very small company to design and build visually unique websites for our clients. My focus was on the technical parts of contemporary web design – making CSS that looks good everywhere, improving page load speed, and setting up pleasant tools for developers.</p>
+        </div>
+
+        <hr>
+
+        <div class="job-info">
+            <ul class="experience-info">
+                <li class="co-name">Evergreen State College</li>
+                <li class="misc">Olympia, WA</li>
+                <li class="misc">Web programming intern</li>
+                <li class="misc">Jan 2014 – March 2014</li>
+            </ul>
+
+            <p>I worked with an experienced staff programmer and got to learn in depth about SQL, PHP, and agile development for a new feature we made for the college's website.</p>
+        </div>
+
+
+        <h2>education</h2>
+
+        <p>The Evergreen State College, 2014 <br>
+        BA/BS Computer Science and Photography</p>
+
+        <h2>skills</h2>
+
+        <p>Mostly JavaScript at this point.</p>
+
+        <p>And the usual things:</p>
+
+        <ul class="skill-list">
+            <li>CSS</li>
+            <li>HTML</li>
+            <li>a little bit of SQL, Java, Haskell, Python, PHP</li>
+            <li>Expertise with Photoshop, Indesign, and Illustrator</li>
         </ul>
-
-        <p>This was a contract job where I created and worked on a wide variety of mostly front-end projects -- unique single page apps, command line tools in node.js, and CMS driven websites.  </p>
     </div>
 
-    <hr>
-
-    <div class="job-info">
-        <ul class="experience-info">
-            <li class="co-name">Slow Clouds</li>
-            <li class="misc">Olympia, WA</li>
-            <li class="misc">Web developer/graphic designer</li>
-            <li class="misc">March 2014 – Sept 2014</li>
-        </ul>
-
-        <p>I worked with this very small company to design and build visually unique websites for our clients. My focus was on the technical parts of contemporary web design – making CSS that looks good everywhere, improving page load speed, and setting up pleasant tools for developers.</p>
-    </div>
-
-    <hr>
-
-    <div class="job-info">
-        <ul class="experience-info">
-            <li class="co-name">Evergreen State College</li>
-            <li class="misc">Olympia, WA</li>
-            <li class="misc">Web programming intern</li>
-            <li class="misc">Jan 2014 – March 2014</li>
-        </ul>
-
-        <p>I worked with an experienced staff programmer and got to learn in depth about SQL, PHP, and agile development for a new feature we made for the college's website.</p>
-    </div>
-
-
-    <h2>education</h2>
-
-    <p>The Evergreen State College, 2014 <br>
-    BA/BS Computer Science and Photography</p>
-
-    <h2>skills</h2>
-
-    <p>Mostly JavaScript at this point.</p>
-
-    <p>And the usual things:</p>
-
-    <ul>
-        <li>CSS</li>
-        <li>HTML</li>
-        <li>a little bit of SQL, Java, Haskell, Python, PHP</li>
-        <li>Expertise with Photoshop, Indesign, and Illustrator</li>
-    </ul>
 </body>
 </html>
 

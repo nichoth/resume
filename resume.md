@@ -1,5 +1,11 @@
 # Nick Thomas
 
+Javascript person  
+nichoth@gmail.com
+github.com/nichoth
+360.485.6268
+
+
 ## experience
 
 Invintus Media
@@ -28,7 +34,6 @@ March 2014 &ndash; Sept 2014
 I worked with this very small company to design and build visually unique websites for our clients. My focus was on the technical parts of contemporary web design &ndash; making CSS that looks good everywhere, improving page load speed, and setting up pleasant tools for developers.
 
 ----------------
-
 
 Evergreen State College
 Olympia, WA
