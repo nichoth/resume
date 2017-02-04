@@ -7,7 +7,7 @@ Olympia, WA
 Javascript developer
 June 2016 &ndash; present
 
-I worked with a small (3 person) team developing a very cool web application that helps clients to live stream, edit, and publish videos. My main task was improving our front end product in every way -- better performance for users, new features, and a better development process. I also programmed fun server side node.js projects related to processing videos.
+I worked with a small (3 person) team developing a very cool web application for live streaming, editing, and publishing videos. My main task was improving our front end product -- adding features, improving performance, and mproving out development process. I also programmed fun server side node.js projects related to processing videos.
 
 ------------
 
@@ -16,7 +16,7 @@ Seattle, WA
 Front-end developer
 Aug 2015 &ndash; Oct 2015
 
-I created and maintained a wide variety of mostly front-end projects, like unique single page apps, command line tools in node.js, and refactored/maintained existing css and markup.
+This was a contract job where I created and worked on a wide variety of mostly front-end projects -- unique single page apps, command line tools in node.js, and cms driven websites.  
 
 -------------------
 
@@ -35,7 +35,7 @@ Olympia, WA
 Web programming intern
 Jan 2014 &ndash; March 2014
 
-Working with an experienced staff programmer, I got to learn in dpeth about SQL, PHP, and agile development while creating a new feature for the college's internal website.
+I worked with an experienced staff programmer and got to learn in dpeth about SQL, PHP, and agile development for a new feature we made for the college's website.
 
 
 ## education
