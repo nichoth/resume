@@ -11,7 +11,7 @@ github.com/nichoth
 Invintus Media
 Olympia, WA
 JavaScript developer
-June 2016 &ndash; present
+June 2016 -- present
 JS, CSS, React
 
 Worked with a small team on a very cool front end application and various node.js projects.
@@ -21,7 +21,7 @@ Worked with a small team on a very cool front end application and various node.j
 Fresh Consulting
 Seattle, WA
 Front-end developer
-Aug 2015 &ndash; Oct 2015
+Aug 2015 -- Oct 2015
 JS, CSS, PHP
 
 Developed diverse JS related projects -- unique single page apps, command line tools in node.js, and CMS driven websites.  
@@ -31,7 +31,7 @@ Developed diverse JS related projects -- unique single page apps, command line t
 Slow Clouds
 Olympia, WA
 Web developer/graphic designer
-March 2014 &ndash; Sept 2014
+March 2014 -- Sept 2014
 CSS, HTML, PHP, JS
 
 Designed and built visually unique websites tailored for our clients.
@@ -41,7 +41,7 @@ Designed and built visually unique websites tailored for our clients.
 Evergreen State College
 Olympia, WA
 Web programming intern
-Jan 2014 &ndash; March 2014
+Jan 2014 -- March 2014
 SQL, PHP, CSS
 
 Worked with an experienced staff programmer to build a new feature for the college's website.
