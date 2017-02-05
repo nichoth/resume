@@ -61,6 +61,6 @@ And the usual things:
 * CSS
 * HTML
 * a little bit of SQL, Java, Haskell, Python, PHP
-* Expertise with Photoshop, Indesign, and Illustrator
+* good with with Photoshop, Indesign, and Illustrator
 
 
