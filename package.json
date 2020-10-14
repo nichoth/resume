@@ -1,10 +1,8 @@
 {
   "scripts": {
     "build-css": "node-sass src/style.scss --quiet",
-    "build": "npm run --silent build-css | node build.js",
-    "build-dist": "npm run --silent build > dist/resume.html",
-    "build-demo": "npm run --silent build > public/resume.html",
-    "start": "npm run build-demo && ecstatic public"
+    "build": "npm run --silent build-css | node build.js > dist/resume.html",
+    "start": "npm run --silent build-css | node build.js > public/resume.html && ecstatic public"
   },
   "dependencies": {
     "ecstatic": "^4.1.4",
