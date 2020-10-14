@@ -49,14 +49,12 @@ As a contract developer i worked on diverse projects with JavaScript and PHP &nd
 * Web developer/graphic designer
 * March 2014 – Sept 2014
 -----------------
-As a contract developer i worked on diverse projects with JavaScript and PHP &ndash; single page apps, node.js command line tools, and CMS driven websites
 Designed and built visually impressive, performant websites at this small design studio
 
 ### Evergreen State College
 * Web Programming Intern
 * June 2014 &ndash; March 2014
 -----------------
-As a contract developer i worked on diverse projects with JavaScript and PHP &ndash; single page apps, node.js command line tools, and CMS driven websites
 I worked closely with a staff programmer on building a new feature for the college's registration website. We created a way for students to write directly to registration staff while submitting requests. Code was PHP and SQL, using Drupal as a CMS
 </div>
 
