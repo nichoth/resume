@@ -1,8 +1,13 @@
 {
   "scripts": {
-    "build-css": "node-sass src/style.scss"
+    "build-css": "node-sass src/style.scss --quiet",
+    "build": "npm run --silent build-css | node build.js",
+    "build-dist": "npm run --silent build > dist/resume.html",
+    "build-demo": "npm run --silent build > public/resume.html",
+    "start": "npm run build-demo && ecstatic public"
   },
   "dependencies": {
+    "ecstatic": "^4.1.4",
     "hyperstream": "^1.2.2",
     "marked": "^1.2.0",
     "node-sass": "^4.14.1"
