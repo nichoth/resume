@@ -1,4 +1,4 @@
-# nick's resume
+# nick Thomas
 JavaScript developer
 
 <div class="col-left">
