@@ -1,4 +1,4 @@
-# res
+# resume
 The resume
 
 ## build html in /dist
