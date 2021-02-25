@@ -37,7 +37,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 * Developer
 * June 2016 – present
 -----------------
-I worked with a small team building react-based applications and node.js backend systems for distributing live video and realtime data
+I worked with a small team building react-based front-end applications and node.js backend systems for distributing live video and realtime data
 
 ### Fresh Consulting
 * Frontend developer
