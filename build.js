@@ -12,7 +12,7 @@ fs.readFile(__dirname + '/src/resume.md', 'utf8', (err, mdContent) => {
         }
     })
 
-    var rs = fs.createReadStream(__dirname + '/src/resume.html')
+    var rs = fs.createReadStream(__dirname + '/src/_resume.html')
     rs.pipe(hs).pipe(process.stdout)
 })
 
