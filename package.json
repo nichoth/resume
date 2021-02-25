@@ -9,5 +9,7 @@
     "hyperstream": "^1.2.2",
     "marked": "^1.2.0",
     "node-sass": "^4.14.1"
+  },
+  "devDependencies": {
   }
 }
