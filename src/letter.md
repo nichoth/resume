@@ -1,1 +1,0 @@
-Hello. I have spent the last several years focused heavily on javascript -- both browser-side and Node.js. My most recent job was making a single-page, React-based, application that was a CMS for video content. While I have more background with frontend programming, I am also excited to learn about server-side patterns. 
