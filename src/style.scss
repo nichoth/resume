@@ -50,19 +50,15 @@ h2 {
 h2:first-child {
     margin-top: 1em;
 }
-hr.section {
-    margin-top: 0;
-    border-top: 2px solid black;
-}
 h1 {
     text-transform: initial;
     font-weight: 400;
     margin-bottom: 0.2em;
 }
-hr {
-    border-top: 1px solid lightgray;
-    margin: 0.2em 0;
-}
+// hr {
+//     border-top: 1px solid lightgray;
+//     margin: 0.2em 0;
+// }
 .co-name {
     letter-spacing: 0.1em;
     font-size: 0.9em;
@@ -89,13 +85,15 @@ p {
     width: 70%;
     &>p {
         margin-bottom: 2em;
+        font-size: 0.9rem;
     }
     &>ul {
         margin: 0;
         font-weight: 100;
-    }
-    &>hr {
-        margin: 0.4em 0;
+        font-size: 0.9rem;
+        &>li:first-child {
+            font-size: 1rem;
+        }
     }
 }
 
