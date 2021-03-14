@@ -37,7 +37,7 @@ h1, h2, h3 {
     font-size: 1em;
 }
 h3 {
-    margin-bottom: 0.4em;
+    margin-bottom: 0.5rem;
     margin-top: 0;
 }
 h2 {
@@ -101,7 +101,8 @@ p {
         font-weight: 100;
         font-size: 0.9rem;
         &>li:first-child {
-            font-size: 1rem;
+            // font-size: 1rem;
+            font-weight: normal;
         }
     }
 }

@@ -13,13 +13,13 @@ The Evergreen State College, 2014
 BA/BS Computer Science and Photography
 
 ## skills
-I focus on web programming with JavaScript — making contemporary browser applications and scalable node.js services.
+I focus on web programming with JavaScript — making contemporary browser applications and scalable Node.js services.
 ### And more:
 * CSS
 * HTML
 * git
 * React
-* node.js
+* Node.js
 * npm
 * browserify
 * bash
@@ -35,7 +35,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ### Invintus Media
 * Developer
-* June 2016 – present
+* June 2016 – Present
 
 I worked with a small team building React-based front-end applications and Node.js backend systems for distributing live video and realtime data
 
@@ -43,10 +43,10 @@ I worked with a small team building React-based front-end applications and Node.
 * Frontend developer
 * Aug 2015 – Oct 2015
 
-As a contract developer, I worked on diverse projects with JavaScript and PHP – single page apps, node.js command line tools, and CMS driven websites
+As a contract developer, I worked on diverse projects with JavaScript and PHP – single page apps, Node.js command line tools, and CMS driven websites
 
 ### SlowClouds
-* Web developer/graphic designer
+* Web Developer/Graphic Designer
 * March 2014 – Sept 2014
 
 I designed and built visually impressive, performant websites at this small design studio
