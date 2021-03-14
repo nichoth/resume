@@ -79,7 +79,16 @@ p {
     margin-right: 5%;
     width: 25%;
     float: left;
+    p {
+        font-size: 0.9rem;
+    }
+
+    ul {
+        font-size: 0.9rem;
+        font-weight: 100;
+    }
 }
+
 .col-right {
     float: left;
     width: 70%;

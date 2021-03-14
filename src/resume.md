@@ -49,7 +49,7 @@ As a contract developer, I worked on diverse projects with JavaScript and PHP â€
 * Web developer/graphic designer
 * March 2014 â€“ Sept 2014
 
-I Designed and built visually impressive, performant websites at this small design studio
+I designed and built visually impressive, performant websites at this small design studio
 
 ### Evergreen State College
 * Web Programming Intern
