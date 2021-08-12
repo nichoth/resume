@@ -35,7 +35,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ### Invintus Media
 * Developer
-* June 2016 – Present
+* June 2016 – Feb 2019
 
 I worked with a small team building React-based front-end applications and Node.js backend systems for distributing live video and realtime data
 
