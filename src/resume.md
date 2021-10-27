@@ -33,6 +33,12 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ## Experience
 
+### Fission
+* Javascript Developer
+* October 2021
+
+Worked on a contract to make a blog application with fission's fully decentralized backend
+
 ### Invintus Media
 * Developer
 * June 2016 – Feb 2019
