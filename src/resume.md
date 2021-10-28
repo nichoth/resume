@@ -37,7 +37,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 * Javascript Developer
 * October 2021
 
-Worked on a contract to make a blog application with fission's fully decentralized backend
+As a contract I worked on to make a blog application with Fission's decentralized/web3 backend
 
 ### Invintus Media
 * Developer
