@@ -5,8 +5,8 @@ JavaScript Developer
 
 ## contact
 * nichoth@gmail.com
-* [nichoth.com](http://nichoth.com/)
-* 360-\*\*\*-\*\*\*\*
+* [nichoth.com](https://nichoth.com/)
+* 360-325-`****`
 
 ## education
 The Evergreen State College, 2014
