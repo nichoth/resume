@@ -8,7 +8,7 @@ fs.readFile(__dirname + '/src/resume.md', 'utf8', (err, mdContent) => {
     var hs = hyperstream({
         'style': process.stdin,
         'body': {
-            _appendHtml: marked(mdContent)
+            _appendHtml: marked.parse(mdContent)
         }
     })
 
