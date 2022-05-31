@@ -33,12 +33,6 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ## Experience
 
-### Planetary
-* Javascript Developer
-* Nov 2021 – March 2022
-
-I worked on building a decentralized social network with the ssb protocol
-
 ### Fission
 * Javascript Developer
 * October 2021
