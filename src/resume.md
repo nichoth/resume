@@ -33,6 +33,12 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ## Experience
 
+### Socket Supply Company
+* Javascript Developer
+* July 2022
+
+I developed automated Javascript-based testing tools for this new JS runtime
+
 ### Fission
 * Javascript Developer
 * October 2021
