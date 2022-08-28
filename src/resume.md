@@ -35,7 +35,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ### Socket Supply Company
 * Javascript Developer
-* July 2022
+* July 2022 – present
 
 I developed automated Javascript-based testing tools for this new JS runtime
 
