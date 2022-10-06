@@ -1,4 +1,8 @@
 {
+  "name": "@nichoth/resume",
+  "description": "The resume",
+  "version": "0.0.0",
+  "main": "./build.js",
   "scripts": {
     "build-css": "sass --quiet src/style.scss",
     "build": "npm run --silent build-css | node build.js > dist/resume.html",
@@ -9,6 +13,16 @@
     "hyperstream": "^1.2.2",
     "marked": "^4.0.10",
     "sass": "^1.48.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/resume.git"
+  },
+  "author": "nichoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/resume/issues"
+  },
+  "homepage": "https://github.com/nichoth/resume#readme"
 }
-
