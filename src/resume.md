@@ -43,7 +43,7 @@ I developed automated testing tools for a new p2p JS runtime
 * Javascript Developer
 * October 2021
 
-As a contract position, I worked on developing a blog application with Fission's decentralized/web3 backend
+As a contract position, I developed a blog application with Fission's decentralized/web3 backend
 
 ### Invintus Media
 * Developer
