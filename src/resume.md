@@ -1,4 +1,4 @@
-# nick thomas
+# Nick Thomas
 JavaScript Developer
 
 <div class="col-left">
