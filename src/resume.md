@@ -39,6 +39,12 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 I developed automated testing tools for a new p2p JS runtime
 
+### Planetary
+* Javascript Developer
+* Nov 2021 – Feb 2022
+
+Lead Javascript developer at a new social networking application using the [ssb stack](https://ssbc.github.io/scuttlebutt-protocol-guide/index.html)
+
 ### Fission
 * Javascript Developer
 * October 2021
@@ -46,7 +52,7 @@ I developed automated testing tools for a new p2p JS runtime
 As a contract position, I developed a blog application with Fission's decentralized backend
 
 ### Invintus Media
-* Developer
+* Javacsript Developer
 * June 2016 – Feb 2019
 
 I worked with a small team building React-based front-end applications and Node.js backend systems for distributing live video and realtime data
