@@ -39,12 +39,6 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 I developed automated testing tools for a new p2p JS runtime
 
-### Planetary
-* Javascript Developer
-* Nov 2021 – Feb 2022
-
-Contract Javascript developer at a new social networking application using the [ssb stack](https://ssbc.github.io/scuttlebutt-protocol-guide/index.html)
-
 ### Fission
 * Javascript Developer
 * October 2021
