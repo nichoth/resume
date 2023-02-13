@@ -35,7 +35,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 ### Socket Supply Company
 * Frontend Engineer
-* July 2022 – present
+* July 2022 – Jan 2023
 
 I developed automated testing tools for a new p2p JS runtime
 
