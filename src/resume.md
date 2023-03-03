@@ -21,12 +21,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 * React
 * Node.js
 * npm
-* browserify
 * bash
-* typography
-* Photoshop
-* Illustrator
-* Indesign
 </div>
 
 <div class="col-right">
