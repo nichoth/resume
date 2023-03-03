@@ -18,7 +18,7 @@ I focus on web programming with JavaScript — making contemporary browser appli
 * CSS
 * HTML
 * git
-* React
+* React + client side applications
 * Node.js
 * npm
 * bash
