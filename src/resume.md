@@ -34,6 +34,12 @@ I focus on web programming with JavaScript — making contemporary browser appli
 
 I developed automated testing tools for a new p2p JS runtime
 
+### Planetary
+* Javascript Developer
+* November 2021 — Feb 2022
+
+JS developer on a new experimental social media application
+
 ### Fission
 * Javascript Developer
 * October 2021
