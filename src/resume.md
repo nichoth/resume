@@ -4,7 +4,7 @@ JavaScript Developer
 <div class="col-left">
 
 ## contact
-* nichoth@gmail.com
+* nichoth@nichoth.com
 * [nichoth.com](https://nichoth.com/)
 * 360-325-`****`
 
