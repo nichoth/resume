@@ -17,5 +17,5 @@ npm run build
 
 ## links
 
-https://github.com/poteto/hiring-without-whiteboards
+[Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) -- A list of companies (or teams) that don't do "whiteboard" interviews.
  
