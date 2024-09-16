@@ -38,7 +38,7 @@ I developed automated testing tools for a new p2p JS runtime
 * Javascript Developer
 * November 2021 — Feb 2022
 
-JS developer on a new experimental social media application
+Lead JS developer for a new social media application
 
 ### Fission
 * Javascript Developer
