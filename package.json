@@ -7,8 +7,7 @@
   "scripts": {
     "build-css": "postcss src/style.css --use cssnano postcss-nesting",
     "build": "mkdir -p ./public && rm -rf ./public/* && npm run --silent build-css | node build.js > ./public/index.html",
-    "lint": "stylelint src/*.css",
-    "start": "npm run build && ecstatic dist"
+    "lint": "stylelint src/*.css"
   },
   "dependencies": {
     "stylelint": "^16.9.0",
