@@ -1,20 +1,27 @@
 {
   "name": "@nichoth/resume",
+  "private": true,
   "description": "The resume",
   "version": "0.0.0",
   "main": "./build.js",
   "scripts": {
-    "build-css": "sass --quiet src/style.scss",
-    "build": "npm run --silent build-css | node build.js > dist/resume.html",
+    "build-css": "postcss src/style.css --use cssnano postcss-nesting",
+    "build": "mkdir -p ./public && rm -rf ./public/* && npm run --silent build-css | node build.js > ./public/index.html",
+    "lint": "stylelint src/*.css",
     "start": "npm run build && ecstatic dist"
   },
   "dependencies": {
-    "ecstatic": "^4.1.4",
-    "hyperstream": "^1.2.2",
-    "marked": "^4.0.10",
-    "sass": "^1.48.0"
+    "stylelint": "^16.9.0",
+    "stylelint-config-standard": "^36.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cssnano": "^7.0.6",
+    "hyperstream": "^1.2.2",
+    "marked": "^14.1.2",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0",
+    "postcss-nesting": "^13.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nichoth/resume.git"
@@ -24,5 +31,5 @@
   "bugs": {
     "url": "https://github.com/nichoth/resume/issues"
   },
-  "homepage": "https://github.com/nichoth/resume#readme"
+  "homepage": "https://github.com/nichoth/resume"
 }
