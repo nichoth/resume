@@ -6,6 +6,7 @@ JavaScript Developer
 ## contact
 * nichoth@nichoth.com
 * [nichoth.com](https://nichoth.com/)
+* [linkedin](https://www.linkedin.com/in/nichoth/)
 * 360-325-`****`
 
 ## education
