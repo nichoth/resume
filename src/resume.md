@@ -31,11 +31,11 @@ scalable Node.js services.
 
 ## Experience
 
-### Bicycle Computing
-* Founding Engineer
+### Freelance
+* Web Developer
 * Jan 2023 &ndash; present
 
-Founding engineer at a project focusing on encryption and privacy on the internet.
+Developed accessible, fast, and simple websites for a variety of clients.
 
 ### Socket Supply Company
 * Frontend Engineer
