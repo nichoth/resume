@@ -5,6 +5,10 @@ p {
     margin-bottom: 1em;
 }
 
+p.intro {
+    max-width: 40rem;
+}
+
 body {
     color: black;
     font-family: sans-serif;

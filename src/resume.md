@@ -1,6 +1,13 @@
 # Nick Thomas
 Web Developer
 
+<p class="intro">
+    I build things for the web &mdash; usually with TypeScript, often
+    from scratch. I care about clean code, good docs, and working with
+    others who care.  Recently focused on end-to-end encryption,
+    accessible content, and modern edge deployments.
+</p>
+
 <div class="col-left">
 
 ## contact
@@ -31,17 +38,19 @@ scalable Node.js services.
 
 ## Experience
 
-### Freelance
+### Freelance / Independent Developer
 * Web Developer
 * Jan 2023 &ndash; present
 
-Developed accessible, fast, and simple websites for a variety of clients.
+Built and maintained open-source tools for
+end-to-end encryption and static site generation.
 
 ### Socket Supply Company
 * Frontend Engineer
 * July 2022 &ndash; Jan 2023
 
-Developed automated testing tools for a new p2p JS runtime.
+Wrote an automated test suite for Socket Runtime &mdash;
+a lightweight Javascript runtime for native apps.
 
 ### Planetary
 * Javascript Developer
