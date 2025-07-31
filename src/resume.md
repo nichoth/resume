@@ -42,7 +42,7 @@ scalable Node.js services.
 * Web Developer
 * Jan 2023 &ndash; present
 
-Built and maintained open-source tools for
+Built and maintained open-source tools focused
 end-to-end encryption and static site generation.
 
 ### Socket Supply Company
