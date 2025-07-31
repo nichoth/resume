@@ -73,7 +73,7 @@ Worked with a small team building React-based front-end applications for
 publishing live video and realtime data.
 
 ### Fresh Consulting
-* Frontend developer
+* Frontend Developer
 * Aug 2015 &ndash; Oct 2015
 
 Worked on diverse projects with JavaScript and
