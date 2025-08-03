@@ -110,3 +110,5 @@ business owner.
 I built a new feature for the college's registration website by working closely
 with a staff programmer, writing PHP and SQL code.
 </div>
+
+<div style="clear: both;"></div>
