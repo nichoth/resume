@@ -50,7 +50,7 @@ end-to-end encryption and static site generation.
 * July 2022 &ndash; Jan 2023
 
 Implemented an automated test suite for Socket Runtime &mdash;
-a lightweight Javascript runtime for native apps.
+a new lightweight Javascript runtime for native apps.
 
 ### Planetary
 * Javascript Developer
