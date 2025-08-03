@@ -49,48 +49,64 @@ end-to-end encryption and static site generation.
 * Frontend Engineer
 * July 2022 &ndash; Jan 2023
 
-Implemented an automated test suite for Socket Runtime &mdash;
-a new lightweight Javascript runtime for native apps.
+Socket Supply Company was a startup developing a new runtime for Javascript
+that would let web developers create native applications, without
+relying on cloud infrastructure.
+
+I implemented an automated test suite for several applications written
+for their new runtime.
 
 ### Planetary
 * Javascript Developer
 * November 2021 &ndash; Feb 2022
 
-Lead JS development for a new social media application.
+Planetary was a startup focused on creating a new social media experience.
+
+I lead JS development for their web app.
 
 ### Fission
 * Javascript Developer, contract
 * October 2021 | Contract position
 
-Developed a blog application with Fission's
-decentralized backend.
+Fission built a new, decentralized web hosting service, and I
+developed a blog application with with it that showcased some of their
+features &mdash; end-to-end encryption, decentralized permissions.
 
 ### Invintus Media
 * Javacsript Developer
 * June 2016 &ndash; Feb 2019
 
-Implemented a more efficient front-end architecture for a React-based
+Invintus is a small development shop born from TVW, the media conduit
+for Washington state government.
+
+I Implemented a more efficient front-end architecture for their React-based
 CMS for video content.
 
 ### Fresh Consulting
 * Frontend Developer
 * Aug 2015 &ndash; Oct 2015
 
-Implemented a Node JS backend for a new hardware device for local
-network security. Developed websites for a variety of client with
-browser-side JS and PHP.
+Fresh Consulting is a Seattle based software agency focused
+on creating innovative new products.
+
+For my contract with them, I implemented a Node JS backend for a new hardware
+device that audits local network security, and developed websites for a variety
+of clients, with browser-side JS and PHP.
 
 ### SlowClouds
 * Web Developer
 * March 2014 &ndash; Sept 2014
 
-Designed and built visually impressive, performant websites at this small
-design studio.
+Slow Clouds was a web design studio in Olympia, Washington. They built visually
+impressive websites for a variety of local businesses.
+
+I implemented new designs by working closely with the designer and
+business owner.
 
 ### Evergreen State College
 * Web Programming Intern
 * June 2013 &ndash; March 2014
 
-Built a new feature for the college's registration website by working closely
+I built a new feature for the college's registration website by working closely
 with a staff programmer, writing PHP and SQL code.
 </div>
