@@ -42,21 +42,21 @@ scalable Node.js services.
 * Web Developer
 * Jan 2023 &ndash; present
 
-Built and maintained open-source tools focused
+Creating and maintaining open-source tools focused
 end-to-end encryption and static site generation.
 
 ### Socket Supply Company
 * Frontend Engineer
 * July 2022 &ndash; Jan 2023
 
-Wrote an automated test suite for Socket Runtime &mdash;
+Implemented an automated test suite for Socket Runtime &mdash;
 a lightweight Javascript runtime for native apps.
 
 ### Planetary
 * Javascript Developer
 * November 2021 &ndash; Feb 2022
 
-Lead JS developer for a new social media application.
+Lead JS development for a new social media application.
 
 ### Fission
 * Javascript Developer, contract
@@ -69,16 +69,16 @@ decentralized backend.
 * Javacsript Developer
 * June 2016 &ndash; Feb 2019
 
-Worked with a small team building React-based front-end applications for
-publishing live video and realtime data.
+Implemented a more efficient front-end architecture for a React-based
+CMS for video content.
 
 ### Fresh Consulting
 * Frontend Developer
 * Aug 2015 &ndash; Oct 2015
 
-Worked on diverse projects with JavaScript and
-PHP &mdash; single page apps, Node.js command line tools, and CMS driven
-websites.
+Implemented a Node JS backend for a new hardware device for local
+network security. Developed websites for a variety of client with
+browser-side JS and PHP.
 
 ### SlowClouds
 * Web Developer
@@ -91,7 +91,6 @@ design studio.
 * Web Programming Intern
 * June 2013 &ndash; March 2014
 
-Worked closely with a staff programmer building a new feature for the
-college's registration website. Created a way for students to write directly
-to registration staff in PHP and SQL.
+Built a new feature for the college's registration website by working closely
+with a staff programmer, writing PHP and SQL code.
 </div>
