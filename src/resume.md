@@ -59,7 +59,7 @@ in the browser.
 * [substrate-system/tapout](https://github.com/substrate-system/tapout)
 * July 2025 &ndash; present
 
-I created a new module for testing web applications from the command line.
+created a new module for testing web applications from the command line.
 
 ## Experience
 
