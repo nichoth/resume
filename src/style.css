@@ -86,7 +86,7 @@ h2:first-child {
 h1 {
     text-transform: initial;
     font-weight: 400;
-    margin-bottom: 0.2em;
+    margin-bottom: -1rem;
 }
 
 .co-name {
