@@ -14,12 +14,20 @@ p.intro {
 body {
     color: black;
     font-family: sans-serif;
-    margin: 4em 7em;
-    max-width: 60rem;
+    max-width: 50rem;
+    margin: 4em auto;
     margin-bottom: 6rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
 
     & > p {
         margin-left: 0;
+    }
+
+    /* Everything except the columns spans full width */
+    & > :not(.col-left, .col-right) {
+        flex: 0 0 100%;
     }
 }
 
@@ -95,9 +103,7 @@ h1 {
 }
 
 .col-left {
-    margin-right: 5%;
     width: 25%;
-    float: left;
 
     & h2 {
         margin-bottom: 0.6em;
@@ -114,7 +120,6 @@ h1 {
 }
 
 .col-right {
-    float: left;
     width: 70%;
 
     &>p {

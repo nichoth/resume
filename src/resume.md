@@ -21,8 +21,8 @@ The Evergreen State College
 BS Computer Science
 
 ## skills
-Web programming with JavaScript &mdash; contemporary browser applications and
-scalable Node.js services.
+I focus on web programming with JavaScript &mdash; contemporary browser
+applications and scalable Node.js services.
 
 ### And more:
 * CSS
@@ -38,13 +38,21 @@ scalable Node.js services.
 
 ## Open Source
 
+### Substrate System
+
+* [github.com/substrate-system](https://github.com/substrate-system)
+* Jan 2024 &ndash; present
+
+Creating and maintaining a library of front-end modules, using best
+practices for accessibility, UX, and DX.
+
 ### Keys
 
 * [substrate-system/keys](https://github.com/substrate-system/keys)
 * Jan 2023 &ndash; present
 
-Created a module that allows you to create crypto keys in the browser and store
-them in `indexedDB`.
+Created a module for constructing and securely storing crypto keys
+in the browser.
 
 ### tapout
 
