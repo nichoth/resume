@@ -39,10 +39,19 @@ scalable Node.js services.
 ## Open Source
 
 ### Keys
-* [github.com/substrate-system/keys](https://github.com/substrate-system/keys)
+
+* [substrate-system/keys](https://github.com/substrate-system/keys)
 * Jan 2023 &ndash; present
 
+Created a module that allows you to create crypto keys in the browser and store
+them in `indexedDB`.
 
+### tapout
+
+* [substrate-system/tapout](https://github.com/substrate-system/tapout)
+* July 2025 &ndash; present
+
+I created a new module for testing web applications from the command line.
 
 ## Experience
 
