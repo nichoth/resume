@@ -4,8 +4,8 @@ Web Developer
 <p class="intro">
     I build things for the web &mdash; usually with TypeScript, often
     from scratch. I care about clean code, good docs, and working with
-    others who care.  Recently focused on end-to-end encryption,
-    accessible content, and modern edge deployments.
+    others who care. Recently focused on end-to-end encryption
+    and accessible web design.
 </p>
 
 <div class="col-left">
@@ -46,55 +46,40 @@ applications and scalable Node.js services.
 Creating and maintaining a library of front-end modules, using best
 practices for accessibility, UX, and DX.
 
-### Keys
-
-* [substrate-system/keys](https://github.com/substrate-system/keys)
-* Jan 2023 &ndash; present
-
-Created a module for constructing and securely storing crypto keys
-in the browser.
-
-### tapout
-
-* [substrate-system/tapout](https://github.com/substrate-system/tapout)
-* July 2025 &ndash; present
-
-created a new module for testing web applications from the command line.
-
 ## Experience
 
 ### Freelance / Independent Developer
 * Web Developer
 * Jan 2023 &ndash; present
 
-Creating and maintaining open-source tools focused
-end-to-end encryption and static site generation.
+Creating and maintaining open source tools focused
+on end-to-end encryption and static site generation.
 
 ### Socket Supply Company
 * Frontend Engineer
 * July 2022 &ndash; Jan 2023
 
-Socket Supply Company was a startup developing a new runtime for Javascript
-that would let web developers create native applications, without
+Socket Supply Company was a startup developing a new runtime for Javascript.
+It enabled web developers to create native applications, without
 relying on cloud infrastructure.
 
-I implemented an automated test suite for several applications written
-for their new runtime.
+I implemented an automated test suite for several applications
+in their new runtime.
 
 ### Planetary
 * Javascript Developer
 * November 2021 &ndash; Feb 2022
 
-Planetary was a startup focused on creating a new social media experience.
+Planetary was a startup creating a new social media application.
 
-I lead JS development for their web app.
+I led JS development for their web app.
 
 ### Fission
 * Javascript Developer, contract
 * October 2021 | Contract position
 
-Fission built a new, decentralized web hosting service, and I
-developed a blog application with with it that showcased some of their
+Fission built a new, decentralized web hosting service. I
+developed a blog application with with their backend that showcased some
 features &mdash; end-to-end encryption, decentralized permissions.
 
 ### Invintus Media
@@ -114,9 +99,9 @@ CMS for video content.
 Fresh Consulting is a Seattle based software agency focused
 on creating innovative new products.
 
-For my contract with them, I implemented a Node JS backend for a new hardware
-device that audits local network security, and developed websites for a variety
-of clients, with browser-side JS and PHP.
+For my contract with them, I wrote a Node JS backend for a new hardware
+device that audits local network security. I also developed websites for a
+variety of clients, with browser-side JS and PHP.
 
 ### SlowClouds
 * Web Developer
