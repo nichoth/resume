@@ -74,7 +74,7 @@ in their new runtime.
 Planetary was a startup creating a new social media application.
 
 I led JS development for their web app, creating an accessible, scalable
-architecture for comminuty content.
+architecture for community content.
 
 ### Fission
 * Javascript Developer, contract
