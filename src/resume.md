@@ -52,8 +52,10 @@ practices for accessibility, UX, and DX.
 * Web Developer
 * Jan 2023 &ndash; present
 
-Creating and maintaining open source tools focused
-on end-to-end encryption and static site generation.
+Creating and maintaining open source tools for
+end-to-end encryption and static site generation &mdash; a
+collection of clean, modular, standards-based web components,
+and libraries for key management in the browser.
 
 ### Socket Supply Company
 * Frontend Engineer
@@ -72,7 +74,8 @@ in their new runtime.
 
 Planetary was a startup creating a new social media application.
 
-I led JS development for their web app.
+I led JS development for their web app, creating an accessible, scalable
+architecture for comminuty content.
 
 ### Fission
 * Javascript Developer, contract
