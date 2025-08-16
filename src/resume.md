@@ -44,8 +44,8 @@ applications and scalable Node.js services.
 * Jan 2024 &ndash; present
 
 Creating and maintaining a library of front-end modules, using best
-practices for accessibility, UX, and DX &mdash; a collection of standards-based
-web components, and libraries for key management in the browser.
+practices for accessibility, UX, and DX &mdash; including standards-based
+web components and a secure browser key-management library.
 
 ## Experience
 
