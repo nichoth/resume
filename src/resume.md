@@ -44,7 +44,8 @@ applications and scalable Node.js services.
 * Jan 2024 &ndash; present
 
 Creating and maintaining a library of front-end modules, using best
-practices for accessibility, UX, and DX.
+practices for accessibility, UX, and DX &mdash; a collection of standards-based
+web components, and libraries for key management in the browser.
 
 ## Experience
 
@@ -52,10 +53,8 @@ practices for accessibility, UX, and DX.
 * Web Developer
 * Jan 2023 &ndash; present
 
-Creating and maintaining open source tools for
-end-to-end encryption and static site generation &mdash; a
-collection of clean, modular, standards-based web components,
-and libraries for key management in the browser.
+Creating and maintaining open source tools focused
+on end-to-end encryption and static site generation.
 
 ### Socket Supply Company
 * Frontend Engineer
