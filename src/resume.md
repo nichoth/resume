@@ -22,7 +22,7 @@ BS Computer Science
 
 ## skills
 I focus on web programming with JavaScript &mdash; contemporary browser
-applications and scalable Node.js services.
+applications and scalable Node JS services.
 
 ### And more:
 * CSS
