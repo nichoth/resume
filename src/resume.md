@@ -49,76 +49,64 @@ web components and a secure browser key-management library.
 
 ## Experience
 
-### Freelance / Independent Developer
-* Web Developer
+### Web Developer
+* Freelance / Independent Developer
 * Jan 2023 &ndash; present
 
 Creating and maintaining open source tools focused
 on end-to-end encryption and static site generation.
 
-### Socket Supply Company
-* Frontend Engineer
+### Frontend Engineer
+* Socket Supply Company
 * July 2022 &ndash; Jan 2023
 
-Socket Supply Company was a startup developing a new runtime for Javascript.
-It enabled web developers to create native applications, without
+Socket Supply Company was a startup developing a new runtime for Javascript,
+enabling web developers to create native applications, without
 relying on cloud infrastructure.
 
-I implemented an automated test suite for several applications
+Implemented an automated test suite for several applications
 in their new runtime.
 
-### Planetary
-* Javascript Developer
+### Javascript Developer
+* Planetary
 * November 2021 &ndash; Feb 2022
 
-Planetary was a startup creating a new social media application.
-
-I led JS development for their web app, creating an accessible, scalable
+Led JS development for the web app, created an accessible, scalable
 architecture for community content.
 
-### Fission
-* Javascript Developer, contract
+### Javascript Developer, contract
+* Fission
 * October 2021 | Contract position
 
-Fission built a new, decentralized web hosting service. I
-developed a blog application with with their backend that showcased some
+Developed a blog application with with Fission's backend that showcased some
 features &mdash; end-to-end encryption, decentralized permissions.
 
-### Invintus Media
-* Javacsript Developer
+### Javascript Developer
+* Invintus Media
 * June 2016 &ndash; Feb 2019
 
-Invintus is a small development shop born from TVW, the media conduit
-for Washington state government.
-
-I Implemented a more efficient front-end architecture for their React-based
+Implemented a more efficient front-end architecture for a React-based
 CMS for video content.
 
-### Fresh Consulting
-* Frontend Developer
+### Frontend Developer
+* Fresh Consulting
 * Aug 2015 &ndash; Oct 2015
 
-Fresh Consulting is a Seattle based software agency focused
-on creating innovative new products.
+Wrote a Node JS backend for a new hardware device that audits local network
+security, developed websites for a variety of clients, with
+browser-side JS and PHP.
 
-For my contract with them, I wrote a Node JS backend for a new hardware
-device that audits local network security. I also developed websites for a
-variety of clients, with browser-side JS and PHP.
-
-### SlowClouds
-* Web Developer
+### Web Developer
+* SlowClouds
 * March 2014 &ndash; Sept 2014
 
-Slow Clouds was a web design studio in Olympia, Washington. They built visually
-impressive websites for a variety of local businesses.
+Created visually impressive websites by working closely with the
+designer and business owner.
 
-I implemented new designs by working closely with the designer and
-business owner.
-
-### Evergreen State College
-* Web Programming Intern
+### Web Programming Intern
+* Evergreen State College
 * June 2013 &ndash; March 2014
 
-I built a new feature for the college's registration website by working closely
-with a staff programmer, writing PHP and SQL code.
+Built a new feature for the college's registration website in PHP and SQL,
+by working closely with a staff programmer.
 </div>
