@@ -36,59 +36,55 @@ applications and scalable Node.js services.
 
 <div class="col-right">
 
-## Open Source
-
-### Substrate System
-
-* [github.com/substrate-system](https://github.com/substrate-system)
-* Jan 2024 &ndash; present
-
-Creating and maintaining a library of front-end modules, using best
-practices for accessibility, UX, and DX &mdash; including standards-based
-web components and a secure browser key-management library.
-
 ## Experience
 
 ### Web Developer
-* Freelance / Independent Developer
+
+* Substrate System
+* [github.com/substrate-system](https://github.com/substrate-system)
+* Jan 2024 &ndash; present
+
+Creating and maintaining a library of open-source front-end modules, using best
+practices for accessibility, UX, and DX &mdash; including standards-based
+web components and a secure browser key-management library.
+
+### Web Developer
+* Freelance
 * Jan 2023 &ndash; present
 
 Creating and maintaining open source tools focused
 on end-to-end encryption and static site generation.
 
-### Frontend Engineer
+### Front-end Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
 
-Socket Supply Company was a startup developing a new runtime for Javascript,
-enabling web developers to create native applications, without
-relying on cloud infrastructure.
+Implemented an automated test suite for several applications built on Socket
+Supply's new JS runtime. Increased developer velocity by giving confidence
+that changes do not cause regressions.
 
-Implemented an automated test suite for several applications
-in their new runtime.
-
-### Javascript Developer
+### Lead Javascript Developer
 * Planetary
 * November 2021 &ndash; Feb 2022
 
-Led JS development for the web app, created an accessible, scalable
-architecture for community content.
+Developed an accessible, scalable architecture for community content in
+Planetary's new social media application.
 
 ### Javascript Developer, contract
 * Fission
 * October 2021 | Contract position
 
 Developed a blog application with with Fission's backend that showcased some
-features &mdash; end-to-end encryption, decentralized permissions.
+of their features &mdash; end-to-end encryption, decentralized permissions.
 
 ### Javascript Developer
 * Invintus Media
 * June 2016 &ndash; Feb 2019
 
-Implemented a more efficient front-end architecture for a React-based
-CMS for video content.
+Implemented a more efficient front-end architecture for the React-based
+CMS used to manage video content.
 
-### Frontend Developer
+### Front-End Developer
 * Fresh Consulting
 * Aug 2015 &ndash; Oct 2015
 
@@ -104,9 +100,9 @@ Created visually impressive websites by working closely with the
 designer and business owner.
 
 ### Web Programming Intern
-* Evergreen State College
+* The Evergreen State College
 * June 2013 &ndash; March 2014
 
-Built a new feature for the college's registration website in PHP and SQL,
-by working closely with a staff programmer.
+Built a new feature for the college's registration website.
+Worked closely with a staff programmer to write PHP and SQL code.
 </div>
