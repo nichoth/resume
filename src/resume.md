@@ -49,13 +49,6 @@ practices for accessibility, UX, and DX &mdash; includes standards-based
 web components, tools for front-end testing, and a secure browser
 key-management library.
 
-### Web Developer
-* Freelance
-* Jan 2023 &ndash; present
-
-Creating and maintaining open source tools focused
-on end-to-end encryption and static site generation.
-
 ### Front-end Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
