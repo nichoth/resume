@@ -75,9 +75,8 @@ of their features &mdash; end-to-end encryption, decentralized permissions.
 * Invintus Media
 * June 2016 &ndash; Feb 2019
 
-Implemented a more efficient front-end architecture for a React-based
-CMS used to manage video content, improved UX for an in-browser video
-management application.
+Implemented a more efficient front-end architecture and improved UX
+for a React-based CMS used to manage video content.
 
 ### Front-End Developer
 * Fresh Consulting
