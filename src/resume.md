@@ -61,7 +61,7 @@ that changes do not cause regressions.
 * Planetary
 * November 2021 &ndash; Feb 2022
 
-Developed an accessible, scalable architecture for community content in
+Developed an accessible, scalable architecture for community content for
 Planetary's new social media application.
 
 ### Javascript Developer, contract
@@ -75,8 +75,9 @@ of their features &mdash; end-to-end encryption, decentralized permissions.
 * Invintus Media
 * June 2016 &ndash; Feb 2019
 
-Implemented a more efficient front-end architecture for the React-based
-CMS used to manage video content.
+Implemented a more efficient front-end architecture for a React-based
+CMS used to manage video content, improved UX for an in-browser video
+management application.
 
 ### Front-End Developer
 * Fresh Consulting
@@ -98,5 +99,5 @@ designer and business owner.
 * June 2013 &ndash; March 2014
 
 Built a new feature for the college's registration website.
-Worked closely with a staff programmer to write PHP and SQL code.
+Worked closely with a staff programmer to write PHP and SQL.
 </div>
