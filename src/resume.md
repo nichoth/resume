@@ -49,7 +49,7 @@ practices for accessibility, UX, and DX &mdash; includes standards-based
 web components, tools for front-end testing, and a secure browser
 key-management library.
 
-### Front-end Engineer
+### Front-End Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
 
@@ -76,7 +76,7 @@ of their features &mdash; end-to-end encryption, decentralized permissions.
 * June 2016 &ndash; Feb 2019
 
 Implemented a more efficient front-end architecture and improved UX
-for a React-based CMS used to manage video content.
+for a React-based CMS for video content.
 
 ### Front-End Developer
 * Fresh Consulting
