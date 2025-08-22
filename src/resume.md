@@ -10,18 +10,18 @@ Web Developer
 
 <div class="col-left">
 
-## contact
+## Contact
 * nichoth@nichoth.com
 * [nichoth.com](https://nichoth.com/)
 * [github.com](https://github.com/nichoth/)
 * [LinkedIn](https://www.linkedin.com/in/nichoth/)
 * 360-325-`****`
 
-## education
+## Education
 The Evergreen State College
 BS Computer Science
 
-## skills
+## Skills
 I focus on web programming with JavaScript &mdash; browser
 applications and scalable Node JS services.
 
@@ -38,12 +38,12 @@ applications and scalable Node JS services.
 * bash
 
 ### Specialties
-* Front-End development
+* Front-end development
 * Mobile development
 * Node.js
 * Automated testing
-* Web Components
-* Cryptography
+* Web components
+* Web cryptography
 </div>
 
 <div class="col-right">
@@ -74,7 +74,7 @@ applications and scalable Node JS services.
 
 <ul class="description">
     <li>
-        Implemented automated test suites across 3 prouction apps
+        Implemented automated test suites across 3 production apps
         built on Socket Supply's new JS runtime.
     </li>
     <li>
@@ -111,7 +111,7 @@ applications and scalable Node JS services.
 
 <ul class="description">
     <li>
-        Developed a blog application with Fission's backend showvasing
+        Developed a blog application with Fission's backend showcasing
         end-to-end encryption and decentralized permissions.
     </li>
     <li>
@@ -144,8 +144,8 @@ applications and scalable Node JS services.
         that audits local network security.
     </li>
     <li>
-        Delivered multiple client websites with responsive,
-        interactive front-ends.
+        Delivered multiple client websites with responsive
+        interactive front ends.
     </li>
 </ul>
 
