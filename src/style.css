@@ -123,13 +123,23 @@ h1 {
 .col-right {
     width: 70%;
 
-    &>p {
+    /* &>p {
         font-size: 0.9rem;
         margin-top: 0.5em;
         margin-bottom: 0.5rem;
+    } */
+
+    & ul.description {
+        margin-top: 0.5rem;
+        margin-left: 0.5rem;
+        font-size: 0.9rem;
+
+        & li {
+            list-style: initial;
+        }
     }
 
-    &>ul {
+    &>ul:not(.description) {
         margin: 0;
         font-weight: 100;
         font-size: 0.9rem;

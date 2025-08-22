@@ -2,10 +2,10 @@
 Web Developer
 
 <p class="intro">
-    I build things for the web &mdash; usually with TypeScript, often
-    from scratch. I care about clean code, good docs, UX, and working with
-    others who care. Recently focused on end-to-end encryption
-    and accessible web design.
+    Web developer specializing in TypeScript, secure web applications, and
+    front-end architecture. Experienced in building open-source
+    libraries, in-browser encryption systems, and automated testing tools
+    that improve developer velocity.
 </p>
 
 <div class="col-left">
@@ -25,17 +25,25 @@ BS Computer Science
 I focus on web programming with JavaScript &mdash; browser
 applications and scalable Node JS services.
 
-### And more:
+### Languages
+* Javascript
+* Typescript
 * CSS
 * HTML
+
+### Tools
 * git
 * React
-* javascript
-* front-end development
-* mobile development
-* Node.js
 * npm
 * bash
+
+### Specialties
+* Front-End development
+* Mobile development
+* Node.js
+* Automated testing
+* Web Components
+* Cryptography
 </div>
 
 <div class="col-right">
@@ -43,52 +51,99 @@ applications and scalable Node JS services.
 ## Experience
 
 ### Web Developer
-
 * Substrate System
 * [github.com/substrate-system](https://github.com/substrate-system)
 * Jan 2024 &ndash; present
 
-Creating and maintaining over 100 open-source front-end modules, using best
-practices for accessibility, UX, and DX &mdash; including standards-based
-web components, tools for front-end testing, and a secure browser
-key-management library.
+<ul class="description">
+    <li>
+        Creating and maintaining 100+ open-source front-end modules
+    </li>
+    <li>
+        Built a secure browser key-management library, enabling
+        end-to-end encryption in client-side applications.
+    </li>
+    <li>
+        Using best practices for accessibility, DX, UX, and documentation.
+    </li>
+</ul>
 
 ### Front-End Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
 
-Implemented an automated test suite for 3 applications built on Socket
-Supply's new JS runtime. Increased developer velocity by giving confidence
-that changes do not cause regressions.
+<ul class="description">
+    <li>
+        Implemented automated test suites across 3 prouction apps
+        built on Socket Supply's new JS runtime.
+    </li>
+    <li>
+        Increased developer velocity by enabling regression-free progress.
+    </li>
+</ul>
 
 ### Lead Javascript Developer
 * Planetary
 * November 2021 &ndash; Feb 2022
 
-Developed an accessible, scalable architecture for community content for
-Planetary's new social media application.
+<ul class="description">
+    <li>
+        Designed and implemented a scalable, accessible architecture
+        for Platentary's new social media platform.
+    </li>
+    <li>
+        Introduced design system components that improved UX consistency
+        across the app.
+    </li>
+    <li>
+        Ensured WCAG 2.1 AA compliance, broadening accessibility.
+    </li>
+</ul>
 
 ### Javascript Developer, contract
 * Fission
 * October 2021 | Contract position
 
-Developed a blog application with with Fission's backend that showcased some
-of their features &mdash; end-to-end encryption, decentralized permissions.
+
+<ul class="description">
+    <li>
+        Developed a blog application with Fission's backend showvasing
+        end-to-end encryption and decentralized permissions.
+    </li>
+    <li>
+        Delivered a polished MVP within a 4-week contract period.
+    </li>
+</ul>
 
 ### Javascript Developer
 * Invintus Media
 * June 2016 &ndash; Feb 2019
 
-Implemented a more efficient front-end architecture and improved UX
-for a React-based CMS for video content.
+<ul class="description">
+    <li>
+        Implemented a more efficient front-end architecture,
+        improving UX for the client-facing video CMS
+    </li>
+    <li>
+        Enhanced UX for state legislature video archives, used by
+        thousands of daily viewers.
+    </li>
+</ul>
 
 ### Front-End Developer
 * Fresh Consulting
 * Aug 2015 &ndash; Oct 2015
 
-Wrote a Node JS backend for a new hardware device that audits local network
-security, developed websites for a variety of clients with
-browser-side JS and PHP.
+<ul class="description">
+    <li>
+        Developed a Node JS backend for a new hardware device
+        that audits local network security.
+    </li>
+    <li>
+        Delivered multiple client websites with responsive,
+        interactive front-ends.
+    </li>
+</ul>
 
 ### Web Developer
 * SlowClouds
@@ -97,10 +152,25 @@ browser-side JS and PHP.
 Created visually impressive websites by working closely with the
 designer and business owner.
 
+<ul class="description">
+    <li>
+        Collaborated with the founder/designer to build
+        visually impressive websites for small businesses.
+    </li>
+</ul>
+
 ### Web Programming Intern
 * The Evergreen State College
 * June 2013 &ndash; March 2014
 
-Built a new feature for the college's registration website.
-Worked closely with a staff programmer to write PHP and SQL.
+<ul class="description">
+    <li>
+        Implemented a new registration system feature in PHP + SQL.
+    </li>
+    <li>
+        Worked closely with staff developers to improve stability
+        of essential web services.
+    </li>
+</ul>
+
 </div>
