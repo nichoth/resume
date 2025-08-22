@@ -22,7 +22,7 @@ The Evergreen State College
 BS Computer Science
 
 ## skills
-I focus on web programming with JavaScript &mdash; contemporary browser
+I focus on web programming with JavaScript &mdash; browser
 applications and scalable Node JS services.
 
 ### And more:
