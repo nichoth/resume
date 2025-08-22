@@ -48,7 +48,7 @@ applications and scalable Node JS services.
 * [github.com/substrate-system](https://github.com/substrate-system)
 * Jan 2024 &ndash; present
 
-Creating and maintaining multiple open-source front-end modules, using best
+Creating and maintaining over 100 open-source front-end modules, using best
 practices for accessibility, UX, and DX &mdash; including standards-based
 web components, tools for front-end testing, and a secure browser
 key-management library.
@@ -57,7 +57,7 @@ key-management library.
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
 
-Implemented an automated test suite for several applications built on Socket
+Implemented an automated test suite for 3 applications built on Socket
 Supply's new JS runtime. Increased developer velocity by giving confidence
 that changes do not cause regressions.
 
@@ -87,7 +87,7 @@ for a React-based CMS for video content.
 * Aug 2015 &ndash; Oct 2015
 
 Wrote a Node JS backend for a new hardware device that audits local network
-security, developed websites for a variety of clients, with
+security, developed websites for a variety of clients with
 browser-side JS and PHP.
 
 ### Web Developer
