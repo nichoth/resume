@@ -32,6 +32,7 @@ applications and scalable Node JS services.
 * React
 * javascript
 * front-end development
+* mobile development
 * Node.js
 * npm
 * bash
