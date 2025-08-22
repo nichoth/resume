@@ -80,6 +80,10 @@ applications and scalable Node JS services.
     <li>
         Increased developer velocity by enabling regression-free progress.
     </li>
+    <li>
+        Partnered with core runtime developers to debug and stabilize
+        early-stage features.
+    </li>
 </ul>
 
 ### Lead Javascript Developer
