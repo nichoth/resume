@@ -33,7 +33,6 @@ applications and scalable Node JS services.
 
 ### Tools
 * git
-* React
 * npm
 * bash
 
@@ -58,6 +57,7 @@ applications and scalable Node JS services.
 <ul class="description">
     <li>
         Creating and maintaining 100+ open-source front-end modules
+        (web components, cryptography libraries, testing tools).
     </li>
     <li>
         Built a secure browser key-management library, enabling
@@ -81,7 +81,7 @@ applications and scalable Node JS services.
         Increased developer velocity by enabling regression-free progress.
     </li>
     <li>
-        Partnered with core runtime developers to debug and stabilize
+        Collaborated with core runtime developers to debug and stabilize
         early-stage features.
     </li>
 </ul>
