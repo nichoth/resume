@@ -3,7 +3,7 @@ Web Developer
 
 <p class="intro">
     I build things for the web &mdash; usually with TypeScript, often
-    from scratch. I care about clean code, good docs, and working with
+    from scratch. I care about clean code, good docs, UX, and working with
     others who care. Recently focused on end-to-end encryption
     and accessible web design.
 </p>
@@ -13,6 +13,7 @@ Web Developer
 ## contact
 * nichoth@nichoth.com
 * [nichoth.com](https://nichoth.com/)
+* [github.com](https://github.com/nichoth/)
 * [LinkedIn](https://www.linkedin.com/in/nichoth/)
 * 360-325-`****`
 
@@ -29,6 +30,8 @@ applications and scalable Node JS services.
 * HTML
 * git
 * React
+* javascript
+* front-end development
 * Node.js
 * npm
 * bash
