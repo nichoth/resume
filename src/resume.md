@@ -45,7 +45,7 @@ applications and scalable Node JS services.
 * Jan 2024 &ndash; present
 
 Creating and maintaining multiple open-source front-end modules, using best
-practices for accessibility, UX, and DX &mdash; includes standards-based
+practices for accessibility, UX, and DX &mdash; including standards-based
 web components, tools for front-end testing, and a secure browser
 key-management library.
 
