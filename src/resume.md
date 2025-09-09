@@ -153,9 +153,6 @@ applications and scalable Node JS services.
 * SlowClouds
 * March 2014 &ndash; Sept 2014
 
-Created visually impressive websites by working closely with the
-designer and business owner.
-
 <ul class="description">
     <li>
         Collaborated with the founder/designer to build
