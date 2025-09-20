@@ -93,7 +93,7 @@ applications and scalable Node JS services.
 <ul class="description">
     <li>
         Designed and implemented a scalable, accessible architecture
-        for Platentary's new social media platform.
+        for Planetary's new social media platform.
     </li>
     <li>
         Introduced design system components that improved UX consistency
