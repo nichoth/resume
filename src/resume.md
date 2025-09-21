@@ -4,8 +4,7 @@ Web Developer
 <p class="intro">
     Web developer specializing in TypeScript, secure web applications, and
     front-end architecture. Experienced in building open-source
-    libraries, in-browser encryption systems, and automated testing tools
-    that improve developer velocity.
+    libraries, in-browser encryption systems, and automated testing tools.
 </p>
 
 <div class="col-left">
