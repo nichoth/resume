@@ -53,6 +53,9 @@ applications and scalable Node JS services.
 * [github.com/substrate-system](https://github.com/substrate-system)
 * Jan 2024 &ndash; present
 
+Substrate System is a collection of open source web components and other
+front-end Javascript modules.
+
 <ul class="description">
     <li>
         Creating and maintaining 100+ open-source front-end modules
@@ -62,22 +65,19 @@ applications and scalable Node JS services.
         Built a secure browser key-management library, enabling
         end-to-end encryption in client-side applications.
     </li>
-    <li>
-        Using best practices for accessibility, DX, UX, and documentation.
-    </li>
 </ul>
 
 ### Front-End Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
 
+Socket Supply Company was building a new runtime for Javascript, enabling
+peer-to-peer, cloudless communication.
+
 <ul class="description">
     <li>
         Implemented automated test suites across 3 production apps
         built on Socket Supply's new JS runtime.
-    </li>
-    <li>
-        Increased developer velocity by enabling regression-free progress.
     </li>
     <li>
         Collaborated with core runtime developers to debug and stabilize
@@ -88,6 +88,9 @@ applications and scalable Node JS services.
 ### Lead Javascript Developer
 * Planetary
 * November 2021 &ndash; Feb 2022
+
+Planetary was developing a new social media application built on top of
+the Secure Scuttlebutt ecosystem.
 
 <ul class="description">
     <li>
@@ -107,14 +110,17 @@ applications and scalable Node JS services.
 * Fission
 * October 2021 | Contract position
 
+Fission was creating backend infrastructure based on IPFS, embracing
+things like end-to-end encryption, user-owned data, and
+local-first architecture.
 
 <ul class="description">
     <li>
-        Developed a blog application with Fission's backend showcasing
+        Developed a blog application with Fission's backend, showcasing
         end-to-end encryption and decentralized permissions.
     </li>
     <li>
-        Delivered a polished MVP within a 4-week contract period.
+        Delivered a production-ready MVP within a 4-week contract period.
     </li>
 </ul>
 
@@ -122,10 +128,14 @@ applications and scalable Node JS services.
 * Invintus Media
 * June 2016 &ndash; Feb 2019
 
+Invintus Media is a small team focused on publishing video content
+from several state legislatures. I worked on the client-side JS application,
+a React-based CMS for video content.
+
 <ul class="description">
     <li>
         Implemented a more efficient front-end architecture,
-        improving UX for the client-facing video CMS
+        improving UX for the client-facing video CMS.
     </li>
     <li>
         Enhanced UX for state legislature video archives, used by
@@ -133,7 +143,7 @@ applications and scalable Node JS services.
     </li>
 </ul>
 
-### Front-End Developer
+### Front-End Developer, contract
 * Fresh Consulting
 * Aug 2015 &ndash; Oct 2015
 
@@ -143,8 +153,7 @@ applications and scalable Node JS services.
         that audits local network security.
     </li>
     <li>
-        Delivered multiple client websites with responsive
-        interactive front ends.
+        Delivered multiple client websites.
     </li>
 </ul>
 
@@ -155,7 +164,10 @@ applications and scalable Node JS services.
 <ul class="description">
     <li>
         Collaborated with the founder/designer to build
-        visually impressive websites for small businesses.
+        the front-end for various local businesses' websites.
+    </li>
+    <li>
+        Wrote PHP for the Wordpress backend that the agency used.
     </li>
 </ul>
 
