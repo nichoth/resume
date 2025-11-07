@@ -111,8 +111,7 @@ the Secure Scuttlebutt ecosystem.
 * October 2021 | Contract position
 
 Fission was creating backend infrastructure based on IPFS, embracing
-things like end-to-end encryption, user-owned data, and
-local-first architecture.
+end-to-end encryption, user-owned data, and local-first architecture.
 
 <ul class="description">
     <li>
@@ -134,12 +133,17 @@ a React-based CMS for video content.
 
 <ul class="description">
     <li>
-        Implemented a more efficient front-end architecture,
-        improving UX for the client-facing video CMS.
+        Improved user dashboards for managing live and on-demand streaming
+        events; simplified complex admin workflows and reduced client support
+        overhead.
     </li>
     <li>
-        Enhanced UX for state legislature video archives, used by
-        thousands of daily viewers.
+        Maintained frontend architecture for government and civic streaming
+        platforms serving thousands of daily viewers.
+    </li>
+    <li>
+        Collaborated with backend engineers on secure media delivery and
+        player integrations.
     </li>
 </ul>
 
