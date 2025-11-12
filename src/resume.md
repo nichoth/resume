@@ -48,25 +48,6 @@ applications and scalable Node JS services.
 
 ## Experience
 
-### Web Developer
-* Substrate System
-* [github.com/substrate-system](https://github.com/substrate-system)
-* Jan 2024 &ndash; present
-
-Substrate System is a collection of open source web components and other
-front-end Javascript modules.
-
-<ul class="description">
-    <li>
-        Creating and maintaining 100+ open-source front-end modules
-        (web components, cryptography libraries, testing tools).
-    </li>
-    <li>
-        Built a secure browser key-management library, enabling
-        end-to-end encryption in client-side applications.
-    </li>
-</ul>
-
 ### Front-End Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
