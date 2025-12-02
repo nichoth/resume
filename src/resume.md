@@ -48,6 +48,21 @@ applications and scalable Node JS services.
 
 ## Experience
 
+### Web Developer
+* Freelance &bull; [github.com/substrate-system](https://github.com/substrate-system)
+* Jan 2023 &ndash; present
+
+<ul class="description">
+    <li>
+        Creating and maintaining 100+ open-source front-end modules
+        (web components, browser cryptography libraries, testing tools).
+    </li>
+    <li>
+        Built a secure in-browser key management library, enabling
+        end-to-end encryption in client-side applications.
+    </li>
+</ul>
+
 ### Front-End Engineer
 * Socket Supply Company
 * July 2022 &ndash; Jan 2023
