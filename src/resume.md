@@ -21,7 +21,7 @@ The Evergreen State College
 BS Computer Science
 
 ## Skills
-I focus on web programming with JavaScript &mdash; browser
+I focus on web programming with Javascript &mdash; browser
 applications and scalable Node JS services.
 
 ### Languages
@@ -37,7 +37,7 @@ applications and scalable Node JS services.
 
 ### Specialties
 * Front-end development
-* Mobile development
+* SPA (React) development
 * Node.js
 * Automated testing
 * Web components
