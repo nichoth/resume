@@ -2,9 +2,9 @@
 Web Developer
 
 <p class="intro">
-    Web developer specializing in TypeScript, secure web applications, and
-    front-end architecture. Experienced in building open-source
-    libraries, in-browser encryption systems, and automated testing tools.
+    Frontend engineer with 10+ years of experience building scalable, secure,
+    and performant web applications. Specialized in TypeScript, component
+    architecture, automated testing, and user-centered UI.
 </p>
 
 <div class="col-left">
@@ -15,10 +15,6 @@ Web Developer
 * [github.com](https://github.com/nichoth/)
 * [LinkedIn](https://www.linkedin.com/in/nichoth/)
 * 360-325-`****`
-
-## Education
-The Evergreen State College
-BS Computer Science
 
 ## Skills
 I focus on web programming with Javascript &mdash; browser
@@ -36,12 +32,17 @@ applications and scalable Node JS services.
 * bash
 
 ### Specialties
-* Front-end development
-* SPA (React) development
+* Front-end Development
+* SPA (React) Architecture
 * Node.js
-* Automated testing
-* Web components
-* Web cryptography
+* Automated Testing
+* Web Components
+* Web Cryptography
+
+## Education
+The Evergreen State College
+BS Computer Science
+
 </div>
 
 <div class="col-right">
